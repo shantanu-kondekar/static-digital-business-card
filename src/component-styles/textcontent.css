@@ -1,0 +1,64 @@
+.main-container>h3 {
+
+    position: absolute;
+    height: 21px;
+    left: 140px;
+    top: 470px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 24px */
+
+
+    color: #F5F5F5;
+
+}
+
+.about-section {
+    position: absolute;
+    width: 247px;
+    height: 61px;
+    left: 140px;
+    top: 520px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 150%;
+    /* or 15px */
+    color: #DCDCDC;
+}
+
+
+.interest-container {
+    position: absolute;
+    left: 140px;
+    top: 610px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    color: #DCDCDC;
+}
+
+.interest-section {
+    position: absolute;
+    width: 240px;
+    height: 61px;
+    left: 2px;
+    top: 45px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 150%;
+    /* or 15px */
+    color: #DCDCDC;
+}
